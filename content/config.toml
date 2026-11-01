@@ -1,6 +1,6 @@
 [site]
 title = "Zhangyi Yao"
-description = "Academic homepage of Zhangyi Yao, PhD student working on insecticidal peptides."
+description = "Academic homepage of Zhangyi Yao, PhD student at Huazhong Agricultural University working on entomology, insect toxicology and microbial pesticides."
 url = "https://yaozhangyi.cn"
 favicon = "/favicon.svg"
 last_updated = "November 1, 2026"
@@ -8,14 +8,14 @@ last_updated = "November 1, 2026"
 [author]
 name = "Zhangyi Yao"
 title = "PhD Student"
-institution = ""                        # 学校英文名，例如 "University of X"
-avatar = "/bio.jpg"                     # 用你的照片替换 public/bio.jpg
+institution = "Huazhong Agricultural University"
+avatar = "/avatar.jpg"
 
 [social]
 # 留空或删除即可隐藏某一项
 email = "yaozhangyi2002@gmail.com"
-# location = "City, China"
-# location_details = ["Room ..., Building ...,", "University of X, City, China"]
+location = "Wuhan, China"
+location_details = ["Huazhong Agricultural University,", "Wuhan, Hubei, China"]
 # google_scholar = "https://scholar.google.com/citations?user=..."
 # orcid = "https://orcid.org/0000-0000-0000-0000"
 # github = "https://github.com/Zhangyi2002"

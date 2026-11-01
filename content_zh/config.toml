@@ -1,12 +1,16 @@
 [site]
 title = "姚章毅"
-description = "姚章毅的个人学术主页：杀虫活性多肽与蛋白质生物化学。"
+description = "姚章毅的个人学术主页：华中农业大学博士研究生，研究兴趣为昆虫学、昆虫毒理学与微生物农药。"
 last_updated = "2026年11月1日"
 
 [author]
 name = "姚章毅"
 title = "博士研究生"
-institution = ""                         # 学校中文名
+institution = "华中农业大学"
+
+[social]
+location = "湖北武汉"
+location_details = ["华中农业大学，", "湖北省武汉市"]
 
 [[navigation]]
 title = "关于我"
