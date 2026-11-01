@@ -21,7 +21,7 @@ location_details = ["Huazhong Agricultural University,", "Wuhan, Hubei, China"]
 # github = "https://github.com/Zhangyi2002"
 
 [features]
-enable_likes = true
+enable_likes = false
 enable_one_page_mode = false
 
 [i18n]
