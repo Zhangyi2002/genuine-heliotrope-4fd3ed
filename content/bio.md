@@ -1,1 +1,1 @@
-I am a PhD student working on **insecticidal peptides**, in particular knottin-class (cystine-knot) peptides, and on identifying their molecular targets in insects. My day-to-day work centres on recombinant protein expression and purification.
+I am a PhD student with interests in entomology, insect toxicology and microbial pesticides. I study insecticidal proteins and how they act in insects, and my day-to-day work centres on protein expression and purification.

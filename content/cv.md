@@ -1,7 +1,7 @@
 ## Education
 
 **PhD Student**, *in progress*
-- Research focus: insecticidal peptides; target identification of knottin-class (cystine-knot) peptides
+- Research focus: insect toxicology; insecticidal proteins and their mode of action
 
 ## Research Skills
 
