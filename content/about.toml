@@ -1,0 +1,30 @@
+type = "about"
+title = "About"
+
+[profile]
+research_interests = [
+  "Insecticidal Peptides",
+  "Knottin (Cystine-Knot) Peptides",
+  "Molecular Target Identification",
+  "Recombinant Protein Expression & Purification"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "About"
+
+# 有论文后：把条目放进 publications.bib，给想展示的条目加 selected={true}，再取消下面 6 行的注释
+# [[sections]]
+# id = "featured_publications"
+# type = "publications"
+# title = "Selected Publications"
+# filter = "selected"
+# limit = 5
+
+[[sections]]
+id = "news"
+type = "list"
+title = "News"
+source = "news.toml"

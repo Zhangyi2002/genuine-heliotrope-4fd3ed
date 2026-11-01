@@ -1,0 +1,30 @@
+type = "about"
+title = "关于我"
+
+[profile]
+research_interests = [
+  "杀虫活性多肽",
+  "结节肽（Knottin）",
+  "作用靶点鉴定",
+  "重组蛋白表达与纯化"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "关于我"
+
+# 有论文后取消下面 6 行的注释
+# [[sections]]
+# id = "featured_publications"
+# type = "publications"
+# title = "精选论文"
+# filter = "selected"
+# limit = 5
+
+[[sections]]
+id = "news"
+type = "list"
+title = "动态"
+source = "news.toml"
